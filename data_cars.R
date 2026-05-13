@@ -11,3 +11,7 @@ for (i in 1:n){
 }
 
 hist(mtcars$mpg)
+
+
+##tambahan syntax
+plot(cars$speed, cars$dist)
